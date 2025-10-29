@@ -1,0 +1,22 @@
+[project]
+name = "cad2usd"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Matias Codesal", email = "mcodesal@nvidia.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "myst-parser>=4.0.1",
+    "sphinx>=8.2.3",
+    "types-usd>=24.5.2",
+    "usd-core>=25.8",
+]
+
+[project.scripts]
+cad2usd = "cad2usd:main"
+
+[build-system]
+requires = ["uv_build>=0.9.5,<0.10.0"]
+build-backend = "uv_build"

@@ -1,20 +1,19 @@
 # CAD to OpenUSD
 
-## Git LFS
-This repository uses Git Large File Storage to store images, videos, and USD content. To ensure a frictionless process, make sure you have it installed before cloning the repository.
+## Configuration
 
-**Install:** 
+### uv
+This repository uses [uv](https://docs.astral.sh/uv/) for dependency management. If you're new to uv, you don't need to know much more than the commands we use in the [build instructions](#How-to-Build). We recommend [installing uv](https://docs.astral.sh/uv/getting-started/installation/).
 
-*(You only need to do this once per machine)*
-```
-git lfs install
-```
 
-If you cloned this repo before installing LFS, you can download all LFS to properly configure your repo.
+## Run the Converter
 
-**Download LFS files:** 
+1. In the `./kit/`, run `./repo.bat build`
+2. `uv run cad2usd`
 
-*(You only need to do this once for this repo)* 
-```
-git lfs pull
-```
+This will convert the `nova_carter_full.step` at the root of the rop and output a USD file in the same location.
+
+## Build Docs
+1. `uv run sphinx-build -M html docs/ docs/_build/`
+1. `uv run python -m http.server 8000 -d docs/_build/html/`
+1. In a web browser, open `http://localhost:8000`
