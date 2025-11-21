@@ -1,4 +1,17 @@
 # CAD to OpenUSD
+<h1 align="center">
+  <b>🔧 <code>CAD-to-OpenUSD</code></b>
+</h1>
+<p align="center">
+<a href="https://docs.nvidia.com/learn-openusd/latest/index.html"><img alt="Learn Open USD" src="https://img.shields.io/static/v1?label=&message=LearnOpenUSD&color=purple&logo=Nvidia"></a>
+<a href="https://github.com/nAurava-Technologies/CAD-to-OpenUSD.git"><img alt="Github Repo" src="https://img.shields.io/static/v1?label=&message=Source%20code&color=purple&logo=github"></a>
+<a href="https://github.com/nAurava-Technologies/CAD-to-OpenUSD/tree/main/prod/lib/actors/nova_carter"><img alt="Github actors repo" src="https://img.shields.io/static/v1?label=&message=Examples&color=purple&logo=github"></a>
+<a href="https://developer.nvidia.com/blog/building-cad-to-usd-workflows-with-nvidia-omniverse/"><img alt="Nvidia Blog" src="https://img.shields.io/static/v1?label=&message=Technical%20Blog&color=purple&logo=Nvidia"></a>
+<a href="https://drive.google.com/drive/folders/14m8q_ZWU_hc3nMCTxg66reiSNl78jRxV"><img alt="Test Cases
+" src="https://img.shields.io/static/v1?label=&message=Test%20Case&color=purple&logo=GoogleDrive"></a>
+<a href="https://drive.google.com/drive/folders/1oDv4bdMmgy7YmxuC_LthkCnnbcPKm5t7?usp=sharing"><img alt="MOM" src="https://img.shields.io/static/v1?label=&message=MeetingMinutes&color=purple&logo=googledrive"></a>
+<a href="https://discord.com/invite/nvidiaomniverse"><img alt="Discord" src="https://img.shields.io/static/v1?label=&message=Open%20USD%20Study%20Group&color=purple&logo=Discord"></a>
+</p>
 
 ## Configuration
 
