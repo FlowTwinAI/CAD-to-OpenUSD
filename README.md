@@ -11,6 +11,7 @@
 " src="https://img.shields.io/static/v1?label=&message=Test%20Case&color=purple&logo=GoogleDrive"></a>
 <a href="https://drive.google.com/drive/folders/1oDv4bdMmgy7YmxuC_LthkCnnbcPKm5t7?usp=sharing"><img alt="MOM" src="https://img.shields.io/static/v1?label=&message=MeetingMinutes&color=purple&logo=googledrive"></a>
 <a href="https://discord.com/invite/nvidiaomniverse"><img alt="Discord" src="https://img.shields.io/static/v1?label=&message=Open%20USD%20Study%20Group&color=purple&logo=Discord"></a>
+<a href="https://discord.com/events/827959428476174346/1392672758693101599"><img alt="Discord" src="https://img.shields.io/static/v1?label=&message=OpenUSDWeeklyCalendar&color=purple&logo=Discord"></a>
 </p>
 
 ## Configuration
